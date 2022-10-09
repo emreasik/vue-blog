@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "mock-api": "Post --port 5174 --watch dummy.json"
+    "mock-api": "json-server --watch dummy.json"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",

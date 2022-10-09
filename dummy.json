@@ -11,7 +11,7 @@
         }
       ],
       "date": "October 07 2022",
-      "author": "typicode"
+      "author": "Emre Aşık"
     },
     {
       "id": 2,
@@ -24,73 +24,150 @@
         }
       ],
       "date": "October 07 2022",
-      "author": "typicode"
+      "author": "Emre Aşık"
     },
     {
       "id": 3,
       "title": "PostPostPostPostPostPostPostPostPostPost3",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
       "id": 4,
       "title": "PostPostPostPostPostPostPostPostPostPost4",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
       "id": 5,
       "title": "PostPostPostPostPostPostPostPostPostPost5",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
       "id": 6,
       "title": "PostPostPostPostPostPostPostPostPostPost6",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
       "id": 7,
       "title": "PostPostPostPostPostPostPostPostPostPost7",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
       "id": 8,
       "title": "PostPostPostPostPostPostPostPostPostPost8",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
-      "id": 8,
-      "title": "PostPostPostPostPostPostPostPostPostPost8",
+      "id": 9,
+      "title": "PostPostPostPostPostPostPostPostPostPost9",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
-      "id": 8,
-      "title": "PostPostPostPostPostPostPostPostPostPost8",
+      "id": 10,
+      "title": "PostPostPostPostPostPostPostPostPostPost10PostPostPostPostPostPostPostPostPostPost10PostPostPostPostPostPostPostPostPostPost10",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
-      "id": 8,
-      "title": "PostPostPostPostPostPostPostPostPostPost8",
+      "id": 11,
+      "title": "PostPostPostPostPostPostPostPostPostPost11",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
-      "id": 8,
-      "title": "PostPostPostPostPostPostPostPostPostPost8",
+      "id": 12,
+      "title": "PostPostPostPostPostPostPostPostPostPost12",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     },
     {
-      "id": 8,
-      "title": "PostPostPostPostPostPostPostPostPostPost8",
+      "id": 13,
+      "title": "PostPostPostPostPostPostPostPostPostPost13",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "author": "typicode"
+      "categories": [
+        {
+          "id": 2,
+          "categoryName": "Scss"
+        }
+      ],
+      "date": "October 07 2022",
+      "author": "Emre Aşık"
     }
   ],
   "about": {
