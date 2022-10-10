@@ -1,7 +1,8 @@
 <template>
     <body>
         <div class="main-wrapper">
-            <img src="../../assets/images/myimage.png" alt="" width="180" height="180">
+            <h1>About Me</h1>
+            <!-- <img src="../../assets/images/myimage.png" alt="" width="180" height="180"> -->
         </div>
     </body>
 </template>

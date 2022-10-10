@@ -8,7 +8,7 @@ export default {
 <template>
     <header class="header" :class="className">
         <div class="header__container">
-            <router-link class="header__logo" to="/">Emre Asik</router-link>
+            <router-link class="header__logo" to="/">Emre Aşık</router-link>
             <nav class="header__navigation">
                 <!-- <router-link class="header__navigation__item header__navigation__item--active" to="/">Home</router-link> -->
                 <router-link class="header__navigation__item" to="/aboutme">About Me</router-link>
@@ -20,7 +20,7 @@ export default {
 </template>
     
 <style lang="scss">
-$bg-black: rgba(21, 25, 32, .9);
+$bg-black: #212529;
 
 .header {
     background-color: $bg-black;

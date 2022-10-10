@@ -12,7 +12,7 @@ export default {
         <a href="https://www.linkedin.com/in/emre-asik/">
             <font-awesome-icon icon="fa-brands fa-linkedin" />
         </a>
-        <a href="https://github.com/emreasik">
+        <a href="https://github.com/Emre Aşık">
             <font-awesome-icon icon="fa-brands fa-github" />
         </a>
         <a href="mailto:asik.emre@outlook.com">
@@ -26,7 +26,7 @@ export default {
 $bg-1: #e4e3eb;
 $white: #d9e6f1;
 $black: #273244;
-$bg-black: rgba(21, 25, 32, .9);
+$bg-black: #212529;
 
 .footer {
     display: flex;
